@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+#  Extremamente Aesthetic ;)
 
 ## 📒 Descrição
 E-book para iniciantes em inglês feito com IAgenerativa
